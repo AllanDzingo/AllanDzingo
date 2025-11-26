@@ -16,7 +16,7 @@
 - Advanced **Machine Learning** and AI techniques
 - Kubernetes orchestration at scale
 - Terraform for multi-cloud Infrastructure as Code
-- Cloud-native app deployments on **AWS, GCP, and Fly.io**
+- Cloud-native app deployments on **AWS, Azure, GCP, and Fly.io**
 
 ---
 
